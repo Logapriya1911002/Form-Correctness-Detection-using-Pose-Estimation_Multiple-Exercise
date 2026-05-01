@@ -20,8 +20,6 @@ Installation:
 ---Clone the repository---
 git clone https://github.com/Logapriya1911002/Form-Correctness-Detection-using-Pose-Estimation_Multiple-Exercise.git
 cd Form-Correctness-Detection-using-Pose-Estimation_Multiple-Exercise
----Install dependencies---
-pip install -r requirements.txt
 
 Usage:
 ---Run the main script---
